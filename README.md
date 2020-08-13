@@ -1,14 +1,13 @@
 # FullThrottle
-http://santosh3372.pythonanywhere.com/testapp
-Running version of the application can be found at: http://abhishekrana254.pythonanywhere.com/testapp/
 
+Running version of the application can be found at: http://santosh3372.pythonanywhere.com/testapp
 If you want to run the application on a local server follow the below steps : clone the application
 
-git clone https://github.com/Abhishekrana254/testsite
+git clone https://github.com/santosh8309/FullThrottle
 Run the following command for running the server:
 
 python manage.py runserver
-if you run this on a local server the app can be accessed on http://localhost:8000/testapp and the populated data will be shown there.
+if you run this on a local server the app can be accessed on http://localhost:9001/testapp and the populated data will be shown there.
 
 Custom management command for populating the database with dummy data
 
